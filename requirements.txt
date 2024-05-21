@@ -15,4 +15,8 @@ sqlparse==0.5.0
 toml==0.10.1
 typing_extensions==4.11.0
 validate-docbr==1.10.0
+tomlkit==0.12.4
+typed-ast==1.5.5
 wrapt==1.12.1
+
+
